@@ -10,8 +10,8 @@
 $nome_utente= $_POST['nome'];
 $email= $_POST['email'];
 
-echo "<p>Ciao". $nome_utente. "</p> ";
-echo "<p>la tua mail è". $email. "</p>";
+echo "<p>Ciao ". $nome_utente. "</p> ";
+echo "<p>la tua mail è ". $email. "</p>";
 ?>
 
 
